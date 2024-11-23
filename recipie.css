@@ -1,0 +1,24 @@
+body {
+    color: #8FBC8F;
+    align-items: center;
+    font-family: monospace;
+
+}
+
+button {
+    background: #9ACD32;
+    color: white;
+    margin-top: 5%;
+    align-items: center;
+    border: 1 px solid #6B8E23;
+    padding: 15px 32px;
+    border-radius: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    margin-bottom: 4px
+}
